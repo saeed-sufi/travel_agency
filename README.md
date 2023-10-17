@@ -1,2 +1,2 @@
 # travel_agency
-A travel agency website
+Building a travel agency website to learn moder web development.
